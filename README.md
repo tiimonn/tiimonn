@@ -1,12 +1,21 @@
-### Hi there 👋
+Hi there! 👋
 
-<!--**tiimonn/tiimonn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
+Welcome to my GitHub profile!
 
 <!--- 🔭 I'm currently working on ...-->
-- 🌱 I'm currently learning Spring Boot + Data JPA, Angular, TypeScript
+
+
+- 🌱 I’m currently working with Spring Boot, Angular and learning GO.
+
 <!--- 👯 I'm looking to collaborate on ...-->
+
+
 <!--- 🤔 I'm looking for help with ...-->
-- 💬 You can ask me about license plates or geography 
+
+
+<!-- - 	💬 Feel free to ask me about license plates or geography—I’d be happy to chat! -->
+
 <!-- - 📫 How to reach me: timon@tiimonn.de or instagram: [@tiimonn](http://instagram.com/tiimonn "@tiimonn") -->
-------------
-- ⚡ **Fun fact:**  Did you know that China and Russia are both bordered by 14 countries?
+
+
+- 	⚡ Fun fact: Did you know that both China and Russia share borders with 14 countries each?
